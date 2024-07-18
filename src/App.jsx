@@ -31,6 +31,7 @@ function App() {
 
   return (
     <div>
+      <h1>Pokemons</h1>
       <List items={items} />
     </div>
   );
